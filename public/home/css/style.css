@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+
+}
+
+.header{
+background-color: cyan;
+overflow: hidden;
+padding: 20px 20px;
+}
+.header a {
+
+	 text-decoration: none;
+	 padding: 13px;
+	 float: left;
+	 font-size: 18px;
+	 font-weight: bold;
+	 color: #fa4e05;
+}
+.header-menu {
+	float: right;
+}
